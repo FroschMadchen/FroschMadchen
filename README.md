@@ -1,5 +1,5 @@
-<p align="center">
-  <a href="https://www.edisonlee55.com"><img src="https://i.giphy.com/media/3o7bug2wkdhpf7kbFS/giphy.webp" alt="Banner"></a>
+<p align="center"> 
+  <a href="https://www.edisonlee55.com"><img src="https://i.giphy.com/media/y9hjvnO2bwJbO/giphy.webp" alt="Banner"></a>
 </p>
 
 ### <div align="center"> My name is Kristina, I'm an android developer 🐾 </div> 
