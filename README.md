@@ -2,7 +2,7 @@
 
 
 ### <div align=""> My name is Kristina, I'm an android developer 🐾 </div> 
-### About me:
+### About me:      
 
 - 🐾 I work in a Belarusian startup 🐾
   
