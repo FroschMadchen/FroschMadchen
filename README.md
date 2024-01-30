@@ -10,7 +10,7 @@
   
 - 🐸 I love cats, I want to work on creating a shop of miracles 🐾
 
-🐾 Thanks for stopping by, kitty 🐸  
+🐾 Thanks for stopping by 🐸  
 ---
 Main tools:
 
