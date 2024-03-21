@@ -3,8 +3,6 @@
 
 ### <div align=""> My name is Kristina, I'm an android developer 🐾 </div> 
 ### About me:      
-
-- 🐾 I work in a Belarusian startup 🐾
   
 - 😁 I am a student at MFUA University 😁
   
