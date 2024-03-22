@@ -4,9 +4,9 @@
 ### <div align=""> My name is Kristina, I'm an android developer 🐾 </div> 
 ### About me:      
   
-- 😁 I am a student at MFUA University 😁
+- 😁  I am a student at MFUA University  😁
   
-- 🐸 I love cats, I want to work on creating a shop of miracles 🐾
+- 🐸  I love cats, I want to work on creating a shop of miracles  🐾
 
 🐾 Thanks for stopping by 🐸  
 ---
