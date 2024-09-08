@@ -1,6 +1,7 @@
 
 # My name is Kristina Dimitrieva
-### <div align=""> Working as an analyst in the digital department at СТС Media  </div> 
+- ### <div align=""> Working as an analyst in the digital department at СТС Media  </div>
+- ### <div align=""> Education technician programmer </div>
 ### :round_pushpin: Moscow
 ## Junior Data Analyst
 
