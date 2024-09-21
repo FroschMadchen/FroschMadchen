@@ -1,12 +1,13 @@
+<h1 align="center">I`m Kristina Dimitrieva</h1>
+<h3 align="center">Junior Data Analyst</h3>
 
-# My name is Kristina Dimitrieva
 - ### <div align=""> Working as an analyst in the digital department at СТС Media  </div>
 - ### <div align=""> Software engineer </div>
 ### :round_pushpin: Moscow
-## Junior Data Analyst
+
 
 ###  Tools in analytics:
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
@@ -30,7 +31,10 @@
 
 
 ### <div align=""> I'm open to suggestions, if you have any cool ideas you can message me on [telegram](https://t.me/user_kristina) 🐾</div> 
-<p align="center"> 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=FroschMadchen&show_icons=true&locale=en&layout=compact" alt="FroschMadchen" /></p>
+
+<p align="left"> 
   <a href="https://www.edisonlee55.com"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW40MXN5enpncHp4NTJhMndsb20zb2ZiY2Vkb3A1NXlscHdqcHEwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n8awua33xgS3CVxb1f/giphy.webp" alt="Banner"></a>
 </p>
 
