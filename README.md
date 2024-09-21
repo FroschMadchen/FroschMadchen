@@ -3,7 +3,7 @@
 
 
 - 🔥 Working as an analyst in the digital department at **СТС Media**
-- 🔥 Software engineer 
+- 🐾 Software engineer 
 
 ###  Tools in analytics:
 <div align="center">
@@ -37,8 +37,7 @@
   <a href="https://www.edisonlee55.com"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW40MXN5enpncHp4NTJhMndsb20zb2ZiY2Vkb3A1NXlscHdqcHEwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n8awua33xgS3CVxb1f/giphy.webp" alt="Banner"></a>
 </p>
 
-### 🐾 Thanks for stopping by 🐸  
-
+<h3 align="center">🐾 Thanks for stopping by 🐸  </h3>
 
 
 
