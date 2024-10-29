@@ -2,7 +2,7 @@
 <h3 align="center">Junior Data Analyst</h3>
 
 
-- 🔥 Working as an analyst in the digital department at **СТС Media**
+- 🔥 Working 
 - 🐾 Software engineer 
 
 ###  Tools in analytics:
